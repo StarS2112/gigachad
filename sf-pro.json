@@ -1,0 +1,18 @@
+{
+  "spec": 1,
+  "name": "Ann_v1",
+  "previewText": "Text_preview",
+  "main": {
+    "ggsans-Bold": "https://github.com/true1ann/opendata/raw/refs/heads/main/vendetta/files/PlusJakartaSans-Bold.ttf",
+    "ggsans-BoldItalic": "https://github.com/true1ann/opendata/raw/refs/heads/main/vendetta/files/PlusJakartaSans-BoldItalic.ttf",
+    "ggsans-ExtraBold": "https://github.com/true1ann/opendata/raw/refs/heads/main/vendetta/files/PlusJakartaSans-ExtraBold.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/true1ann/opendata/raw/refs/heads/main/vendetta/files/PlusJakartaSans-ExtraBoldItalic.ttf",
+    "ggsans-Medium": "https://github.com/true1ann/opendata/raw/refs/heads/main/vendetta/files/PlusJakartaSans-Medium.ttf",
+    "ggsans-MediumItalic": "https://github.com/true1ann/opendata/raw/refs/heads/main/vendetta/files/PlusJakartaSans-MediumItalic.ttf",
+    "ggsans-Normal": "https://github.com/true1ann/opendata/raw/refs/heads/main/vendetta/files/PlusJakartaSans-Regular.ttf",
+    "ggsans-NormalItalic": "https://github.com/true1ann/opendata/raw/refs/heads/main/vendetta/files/PlusJakartaSans-Italic.ttf",
+    "ggsans-Semibold": "https://github.com/true1ann/opendata/raw/refs/heads/main/vendetta/files/PlusJakartaSans-SemiBold.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/true1ann/opendata/raw/refs/heads/main/vendetta/files/PlusJakartaSans-SemiBoldItalic.ttf",
+    "SourceCodePro-Semibold": "https://github.com/true1ann/opendata/raw/refs/heads/main/vendetta/files/AnonymousPro-Bold.ttf"
+  }
+}
